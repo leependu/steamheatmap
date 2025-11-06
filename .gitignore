@@ -1,1 +1,12 @@
+# config.json (credentials)
 config.json
+# script output
+data/
+log/
+heatmap.*
+
+# OS
+desktop.ini
+*/desktop.ini
+.DS_Store
+*/.DS_Store
